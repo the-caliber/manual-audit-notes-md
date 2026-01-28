@@ -35,7 +35,7 @@ Commit hash:
 1. Relearn about specific cross chain service/protocol that's getting used.
  
 ## ContractName.sol
-*This contains doubts/points/research/potential bugs regarding the ContractName.sol*
+<!-- *This contains doubts/points/research/potential bugs regarding the ContractName.sol* -->
 1. Confirmed issue 1.
 2. Confirmed issue 2.
     ### Doubts/Research:
@@ -49,7 +49,7 @@ Commit hash:
         3. [test] ...
  
 ## ContractName2.sol
-*This contains doubts/points/research/potential bugs regarding the ContractName2.sol*
+<!-- *This contains doubts/points/research/potential bugs regarding the ContractName2.sol* -->
 ...
  
 ---
