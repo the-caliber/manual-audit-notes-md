@@ -1,7 +1,7 @@
 # manual audit notes markdown file.
 While doing full time manual reviews I encountered the need of noting multiple things, this repo shows the md file I use to effectively note multiple things, including found issues, doubts, questions, progress and more while doing full time manual reviews. This literally works as your brain while auditing and gives you more context about your entire project and progress.
 
-The same [manual-audit-notes.md](manual-audit-notes.md) in this repository is rendered below:
+The same [manual-audit-notes.md](manual-audit-notes.md) in this repository is shown below:
 
 ```markdown
 # Project Name
