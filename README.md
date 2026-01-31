@@ -2,7 +2,7 @@
 While doing full time manual reviews I encountered the need of noting multiple things, this repo shows the md file I use to effectively note multiple things, including found issues, doubts, questions, progress and more while doing full time manual reviews. This literally works as your brain while auditing and gives you more context about your entire project and progress.
 
 The same [manual-audit-notes.md](manual-audit-notes.md) in this repository is shown below:
-1. The line with **[revisit]** prepended shows something that should be visited again or later, it can be something that you think can create a problem if some specific conditions are met after the devs fix specific issue or implementing given suggested in specific way.
+1. The line with **[revisit]** prepended shows something that should be visited again or later, it can be something that you think can create a problem if some specific conditions are met after the devs fix specific issue or implementing given suggestion/recommendation in specific way.
 2. The line with **[test]** prepended shows the point or the test that I actually want to test. It can be a edge or a POC for a confirmed vulnerability, or something that is not already covered.
 
 ```markdown
